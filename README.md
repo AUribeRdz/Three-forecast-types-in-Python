@@ -8,11 +8,17 @@ To ilustrate aproximations: Location 1 (Column 1) shows that once a previous mon
 of comsuption) is given, planner should consider to add +1 on given value to reach best approximation with 23%:
 
 -3 units of deviation from monthly forecast in actuals history has been hit on 8%
+
 -2 units of deviation from monthly forecast in actuals history has been hit on 12%
+
 -1 units of deviation from monthly forecast in actual history has been hit on 14%
-0 units of deviation from monthly forecast in actual history has been hit on 15%
+
+-0 units of deviation from monthly forecast in actual history has been hit on 15%
+
 +1 units of deviation from monthly forecast in actual history has been hit on 23%
+
 +2 units of deviation from monthly forecast in actual history has been hit on 13%
+
 +3 units of deviation from monthly forecast in actual history has been hit on 14%
 
 Total % deviation is 99% meaning that only 1% of forecast, monthly forecast value, has been less than -3 units and above than +3 units comparing real consumption and 
